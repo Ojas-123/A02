@@ -1,5 +1,5 @@
 # A02
-'''
+
 Webstorm is an Integrated Development Environment that uses JavaScript. It houses multiple different projects and allows you to clone respositories from Github by just pasting the URL and directory of the chosen repository. You can also upload code that is already stored on your local machine. You can also just create a new project on something like Bootstrap and select a directory where the project will be stored. Webstorm will then download the necessary dependencies and set up the environment to begin coding. After that, you can begin creating anything you wish!
 
 
@@ -15,4 +15,3 @@ Webstorm is an Integrated Development Environment that uses JavaScript. It house
 **Pull**: Brings material from a remote repository to the local one
 **Remote**: Similar to cloud storage vs hard drive storage; remote repositories are available to all team members of a repository while local ones are just available to the respective user
 **Repository**: Stores code, files, and the version histories
-'''
